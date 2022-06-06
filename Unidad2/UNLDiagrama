@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T18:05:45.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zG_xwJJeTU94l9ziO0n4" version="19.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-06T18:06:54.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="AuEuDc9xdlXpUvaNdNLA" version="19.0.0" type="github" pages="3">
   <diagram id="uh-v19KE06f85VE6PdPy" name="Base">
     <mxGraphModel dx="1695" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -248,7 +248,7 @@
         <mxCell id="IGIEGxLFv6_T-x6r8eWg-0" />
         <mxCell id="IGIEGxLFv6_T-x6r8eWg-1" parent="IGIEGxLFv6_T-x6r8eWg-0" />
         <mxCell id="IGIEGxLFv6_T-x6r8eWg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IGIEGxLFv6_T-x6r8eWg-1">
-          <mxGeometry x="-80" y="540" width="580" height="490" as="geometry" />
+          <mxGeometry x="-90" y="540" width="590" height="490" as="geometry" />
         </mxCell>
         <mxCell id="IGIEGxLFv6_T-x6r8eWg-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=320;entryDy=125.625;entryPerimeter=0;fontSize=12;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="IGIEGxLFv6_T-x6r8eWg-1" source="IGIEGxLFv6_T-x6r8eWg-4" target="IGIEGxLFv6_T-x6r8eWg-19">
           <mxGeometry relative="1" as="geometry" />
@@ -266,7 +266,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGIEGxLFv6_T-x6r8eWg-8" value="Api gateway" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="IGIEGxLFv6_T-x6r8eWg-1">
-          <mxGeometry x="-120" y="612.5" width="90" height="210" as="geometry" />
+          <mxGeometry x="-50" y="612.5" width="90" height="210" as="geometry" />
         </mxCell>
         <mxCell id="IGIEGxLFv6_T-x6r8eWg-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;startArrow=none;startFill=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="IGIEGxLFv6_T-x6r8eWg-1" source="IGIEGxLFv6_T-x6r8eWg-10" target="IGIEGxLFv6_T-x6r8eWg-8">
           <mxGeometry relative="1" as="geometry" />
@@ -278,25 +278,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGIEGxLFv6_T-x6r8eWg-12" value="Balanceador de carga" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="IGIEGxLFv6_T-x6r8eWg-1">
-          <mxGeometry x="-280" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="-260" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGIEGxLFv6_T-x6r8eWg-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startArrow=classic;startFill=1;" edge="1" parent="IGIEGxLFv6_T-x6r8eWg-1" source="IGIEGxLFv6_T-x6r8eWg-14" target="IGIEGxLFv6_T-x6r8eWg-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGIEGxLFv6_T-x6r8eWg-14" value="personal unl" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="IGIEGxLFv6_T-x6r8eWg-1">
-          <mxGeometry x="-413" y="740" width="100" height="70" as="geometry" />
+          <mxGeometry x="-378" y="740" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IGIEGxLFv6_T-x6r8eWg-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startArrow=classic;startFill=1;" edge="1" parent="IGIEGxLFv6_T-x6r8eWg-1" source="IGIEGxLFv6_T-x6r8eWg-16" target="IGIEGxLFv6_T-x6r8eWg-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGIEGxLFv6_T-x6r8eWg-16" value="estudiantes" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" vertex="1" parent="IGIEGxLFv6_T-x6r8eWg-1">
-          <mxGeometry x="-448" y="840" width="35" height="50" as="geometry" />
+          <mxGeometry x="-413" y="850" width="35" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IGIEGxLFv6_T-x6r8eWg-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startArrow=classic;startFill=1;" edge="1" parent="IGIEGxLFv6_T-x6r8eWg-1" source="IGIEGxLFv6_T-x6r8eWg-18" target="IGIEGxLFv6_T-x6r8eWg-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGIEGxLFv6_T-x6r8eWg-18" value="docentes" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;" vertex="1" parent="IGIEGxLFv6_T-x6r8eWg-1">
-          <mxGeometry x="-456.25" y="935" width="32.5" height="50" as="geometry" />
+          <mxGeometry x="-413" y="935" width="32.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IGIEGxLFv6_T-x6r8eWg-19" value="SGA" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;fontSize=12;" vertex="1" parent="IGIEGxLFv6_T-x6r8eWg-1">
           <mxGeometry x="100" y="570" width="380" height="200" as="geometry" />
