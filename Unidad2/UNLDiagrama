@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T18:28:58.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_eHgf3ygHwfAf6j40Ab5" version="19.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-06T18:29:41.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="RMlvWR0z4-RkkwtFDjbB" version="19.0.0" type="github" pages="3">
   <diagram id="uh-v19KE06f85VE6PdPy" name="Base">
     <mxGraphModel dx="1695" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -234,6 +234,9 @@
         </mxCell>
         <mxCell id="EsSHYgRdItQ0Js4kKosp-1" value="SGA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="xOAoTp9NhX5VrHGcYkHM-1">
           <mxGeometry x="100" y="580" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EsSHYgRdItQ0Js4kKosp-3" value="Jainer Sebastian Pinta Salazar" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fontSize=12;" vertex="1" parent="xOAoTp9NhX5VrHGcYkHM-1">
+          <mxGeometry x="-340" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
