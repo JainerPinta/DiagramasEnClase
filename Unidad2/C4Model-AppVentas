@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T00:22:02.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ZM0hQQPu7DEt0EqfUxWw" version="20.0.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-17T01:25:58.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="8RP8A3I9rttvohdDzOLP" version="20.0.1" type="github" pages="4">
   <diagram name="Primera Propuesta" id="njnodFik_rAD15SiYxxK">
     <mxGraphModel dx="2522" dy="-695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -698,6 +698,11 @@
         <mxCell id="D70F6iD2DMhSKL41AgGz-72" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;rotation=-180;" vertex="1" parent="D70F6iD2DMhSKL41AgGz-1">
           <mxGeometry x="394" y="490" width="20" height="20" as="geometry" />
         </mxCell>
+        <object placeholders="1" c4Name="Cliente" c4Type="Persona" c4Description="Persona la cual utiliza el sistema y &#xa;hace uso de las funcionalidades&#xa;que ofrece" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="J8p1EyRlQGb0u2-GG5b6-0">
+          <mxCell style="html=1;fontSize=11;dashed=0;whitespace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="D70F6iD2DMhSKL41AgGz-1">
+            <mxGeometry x="-70" y="740" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
