@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T15:51:26.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tGWpH6vJim9SQGdJPyeV" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-30T15:58:45.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zcM3j9TrZV698gE8W24N" version="20.0.3" type="github" pages="3">
   <diagram id="CmdmQU55yD38yTiJ5lQN" name="Page-1">
     <mxGraphModel dx="1848" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,6 +125,26 @@
         </mxCell>
         <mxCell id="XdoIMg4y8KzFiswdslqn-19" value="7: crear(informacionPrestante, ejemplar)&amp;nbsp;&lt;span style=&quot;color: rgb(34, 34, 34); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Helvetica, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;←&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="60" y="490" width="250" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NAcT6bd2RlWebuIxZAA-" name="Page-3">
+    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RnjE-x5q2Zu6DywgQ375-1" value="Estudiante" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RnjE-x5q2Zu6DywgQ375-3" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="580" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RnjE-x5q2Zu6DywgQ375-4" value=":ControladorEnvio" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RnjE-x5q2Zu6DywgQ375-5" value=":Documento" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
