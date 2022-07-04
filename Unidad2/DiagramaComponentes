@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T17:54:57.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TfQkYqK6QyY0ACpz8B9X" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T18:00:13.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="F0jIWA9AnN_MChgTzpoO" version="20.0.4" type="github" pages="2">
   <diagram id="CmehgFBLhK5Zsuls12Hj" name="Page-1">
-    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,52 @@
         </mxCell>
         <mxCell id="FBYVAMEeCfW615vxfw00-7" value="Web Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FBYVAMEeCfW615vxfw00-12" value="App xamari" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry y="120" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="FBYVAMEeCfW615vxfw00-13" value="Angular" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry y="240" width="50" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cPoJu6Utni8QiMtQNrN4" name="Page-2">
+    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="972Uu3Gzb0oyX-hSIXW2-3" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Angular&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="972Uu3Gzb0oyX-hSIXW2-4" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="972Uu3Gzb0oyX-hSIXW2-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="972Uu3Gzb0oyX-hSIXW2-5" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;App Xamari&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="972Uu3Gzb0oyX-hSIXW2-6" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="972Uu3Gzb0oyX-hSIXW2-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="972Uu3Gzb0oyX-hSIXW2-7" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Web Service&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="972Uu3Gzb0oyX-hSIXW2-8" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="972Uu3Gzb0oyX-hSIXW2-7">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="972Uu3Gzb0oyX-hSIXW2-9" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Postgress&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="972Uu3Gzb0oyX-hSIXW2-10" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="972Uu3Gzb0oyX-hSIXW2-9">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
