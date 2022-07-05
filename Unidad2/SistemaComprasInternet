@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T17:34:15.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="iNSsde2izkmFqiDIQH1F" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T17:42:29.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xbzU4jIZO3iHu3Np1Ws1" version="20.0.4" type="github">
   <diagram id="YmbUvY4QHsBc5O8Mv5it" name="Page-1">
-    <mxGraphModel dx="599" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C8IEUqhmTdC2SppE9uOH-33" value="SistemaCompraInternet" style="shape=umlFrame;whiteSpace=wrap;html=1;width=150;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="300" width="610" height="690" as="geometry" />
+        </mxCell>
         <mxCell id="C8IEUqhmTdC2SppE9uOH-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="C8IEUqhmTdC2SppE9uOH-1" target="C8IEUqhmTdC2SppE9uOH-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -58,6 +61,9 @@
         <mxCell id="C8IEUqhmTdC2SppE9uOH-18" value="Publicar catálogo productos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="180" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="C8IEUqhmTdC2SppE9uOH-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="C8IEUqhmTdC2SppE9uOH-19" target="C8IEUqhmTdC2SppE9uOH-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="C8IEUqhmTdC2SppE9uOH-19" value="Procesar orden compras" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="300" width="120" height="80" as="geometry" />
         </mxCell>
@@ -67,20 +73,35 @@
         <mxCell id="C8IEUqhmTdC2SppE9uOH-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="C8IEUqhmTdC2SppE9uOH-20" target="C8IEUqhmTdC2SppE9uOH-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C8IEUqhmTdC2SppE9uOH-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="190" width="30" height="60" as="geometry" />
+        <mxCell id="C8IEUqhmTdC2SppE9uOH-20" value="Empleado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8IEUqhmTdC2SppE9uOH-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=0;" edge="1" parent="1" source="C8IEUqhmTdC2SppE9uOH-23" target="C8IEUqhmTdC2SppE9uOH-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C8IEUqhmTdC2SppE9uOH-23" value="Procesar pedido particular" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C8IEUqhmTdC2SppE9uOH-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=0;" edge="1" parent="1" source="C8IEUqhmTdC2SppE9uOH-24" target="C8IEUqhmTdC2SppE9uOH-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C8IEUqhmTdC2SppE9uOH-24" value="Procesar pedido empresa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="780" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C8IEUqhmTdC2SppE9uOH-28" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="C8IEUqhmTdC2SppE9uOH-27" target="C8IEUqhmTdC2SppE9uOH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C8IEUqhmTdC2SppE9uOH-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="C8IEUqhmTdC2SppE9uOH-27" target="C8IEUqhmTdC2SppE9uOH-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C8IEUqhmTdC2SppE9uOH-27" value="Enviar productos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C8IEUqhmTdC2SppE9uOH-29" value="Empresa suminitradora" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C8IEUqhmTdC2SppE9uOH-30" value="Empresa de mensajeria" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="485" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
