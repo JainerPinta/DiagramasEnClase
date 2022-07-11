@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T17:25:34.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ESXk_L0Oqsme_ApN2IvJ" version="20.0.4" type="github">
-  <diagram id="2OHbuxV05i1h7F67sSlw" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-07-11T17:34:02.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Jyua1d1p6DyhhJksS4pa" version="20.0.4" type="github" pages="2">
+  <diagram id="2OHbuxV05i1h7F67sSlw" name="AnáilisRobustez">
     <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -154,6 +154,14 @@
         <mxCell id="YBrnxgOZP1uMuBx_VQiU-26" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;11. Actualiza comprar/ cantidad carrito de compras" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="555" y="1340" width="70" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9ElU3zycyMVK6R5hqrdO" name="DiagramaSecuencia">
+    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
