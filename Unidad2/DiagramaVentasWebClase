@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T17:23:23.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="u8dx4buLVMCse93HXPgH" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T17:25:05.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BdXpovRmdtvBiNEvAe_L" version="20.0.4" type="github">
   <diagram id="2OHbuxV05i1h7F67sSlw" name="Page-1">
     <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,13 +137,19 @@
           <mxGeometry x="560" y="1169" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YBrnxgOZP1uMuBx_VQiU-20" value="10. AgregarItemProducto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1259" width="180" height="30" as="geometry" />
+          <mxGeometry x="500" y="1249" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YBrnxgOZP1uMuBx_VQiU-22" value="Item&lt;br&gt;Producto" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="1060" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YBrnxgOZP1uMuBx_VQiU-24" value="Carrito&lt;br&gt;Compras" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="1169" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YBrnxgOZP1uMuBx_VQiU-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YBrnxgOZP1uMuBx_VQiU-26" target="YBrnxgOZP1uMuBx_VQiU-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBrnxgOZP1uMuBx_VQiU-26" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;11. Actualiza comprar/ cantidad carrito de compras" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1340" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
